@@ -33,3 +33,17 @@
     background-color: orangered;
     color: white;
 }
+
+button.btnCenter {
+    display: block;
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    width: 100%;
+}
+
+img.imgCenter {
+    width: 100%;
+    display: block;
+    margin: auto;
+}
