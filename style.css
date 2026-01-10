@@ -16,3 +16,20 @@
 .sectionDark {
     background-color: #cccccc;
 }
+
+.sectionTwoBtnClass {
+    margin-top: 12px;
+    margin-bottom: 12px;
+}
+
+.sectionTwoBtn {
+    background-color: red;
+    color: white;
+    display: block;
+    margin: auto;
+}
+
+.sectionTwoBtn:hover {
+    background-color: orangered;
+    color: white;
+}
