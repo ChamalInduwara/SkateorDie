@@ -5,7 +5,14 @@
     margin-bottom: 60px;
 }
 
+.sectionDark, .sectionLight {
+    padding: 2rem;
+}
+
 .sectionLight {
     background-color: #eceeef;
-    padding: 2em;
+}
+
+.sectionDark {
+    background-color: #cccccc;
 }
