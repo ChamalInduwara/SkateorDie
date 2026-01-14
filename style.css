@@ -47,3 +47,17 @@ img.imgCenter {
     display: block;
     margin: auto;
 }
+
+img.footerImg {
+    padding: 20px;
+}
+
+div.iconContainer {
+    margin: auto;
+}
+
+i.icons {
+    color: #eceeef;
+    font-size: 35px;
+    margin: 10px;
+}
